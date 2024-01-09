@@ -303,9 +303,39 @@
 }
 
 /* holidays */
-.holidaysimages {
-    background-image: url('../resources/Rectangle2.png');
-    background-position: bottom;
+.holidays{
+    width: 82%;
+    max-width: 1320px;
+    border-radius: 12px;
+    height: 750px;
+    border: 5px solid red;
+    margin: 70px auto;
+    display: block;
+}
+.holidayheader{
+    margin: 5px auto;
+    width: 600px;
+    text-align: center;
+}
+.holidayimages{
+    position:absolute;
+}
+.blast{
+    position: absolute;
+    z-index: 2;
+}
+.g44{
+  position: absolute;
+  z-index: 6;
+}
+.rec1{
+    position: absolute;
+    z-index:3;
+}
+.rec2{
+    position:absolute;
+    z-index:1;
+    top: 90%;
 }
 
 /* subscribe */

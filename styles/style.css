@@ -409,7 +409,7 @@ footer {
     width: 82%;
     max-width: 1320px;
     height: 500px;
-    margin: 40px auto;
+    margin: 0px auto;
     background-color: black;
     border: none;
 }

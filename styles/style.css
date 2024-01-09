@@ -398,7 +398,7 @@
 
 /* footerdedign */
 footer{
-    margin-top: 40px;
+    margin-top: 40px auto 4px auto;
     background-color: black;
 }
 .footercontainar {

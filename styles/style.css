@@ -2,6 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+ .allcontainar{
+    width: 1350px;
+    margin: 0px auto;
+ }
 
 .headcontainar {
     width: 82%;
